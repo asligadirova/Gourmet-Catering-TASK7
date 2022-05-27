@@ -1,0 +1,41 @@
+.section__about{
+ display: flex;
+ margin-top: 70px;
+ width: 100%;
+
+ &__div__img{
+     margin-left: 150px;
+     width: 500px;
+     height: 750px;
+     border-radius: 4px;
+     margin-bottom: 90px;
+     opacity: 0.75;    
+ }
+ &__div__text{
+     margin-top: 80px;     
+     text-align: center;   
+    margin-left: 40px;
+    margin-right: 120px;
+  &_h1{
+      letter-spacing: 5px;
+      margin-bottom: 60px;
+  }
+  &_h4{
+      margin-bottom: 30px;
+      letter-spacing: 6px;
+      color: rgb(59, 56, 56);
+}
+&_p{
+
+ text-align: start;
+ line-height: 30px;
+ margin-bottom: 30px;
+
+}
+ }
+}
+hr{
+    margin: 5px 30px;
+    border: 0;
+    border-top: solid 1px #eee;
+}

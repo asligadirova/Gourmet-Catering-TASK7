@@ -31,7 +31,7 @@ a:hover {
     letter-spacing: 5px;
     position: absolute;
     z-index: 0;
-    bottom: -40px;
+    bottom: 30px;
     color: #535050; }
 
 .header__wrapper_div {
@@ -67,7 +67,7 @@ a:hover {
     letter-spacing: 5px;
     position: absolute;
     z-index: 0;
-    bottom: -40px;
+    bottom: 30px;
     color: #535050; }
 
 .footer {

@@ -1,5 +1,6 @@
-//Header
-@import "./components/header";
+//Resets
+@import "./reset";
+
 // Variables
 @import "./variables";
 
@@ -16,5 +17,4 @@
 @import "./pages/menu";
 @import "./pages/contact";
 
-//Resets
-@import "./reset"
+
